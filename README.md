@@ -8,3 +8,4 @@
 3. Fibo-Đệquy (Đã rv code)
 4. 06-binarysearch (Đã rv code, tách code khỏi main, có thể bị yêu cầu chuyển array sort thành bubble sort)
 5. 0071 (Đã rv code, thầy làm khó mãi mới qua, 150 loc)
+6. 0051 (Đã rv code - lên tổng số 409 loc) 
